@@ -17,13 +17,20 @@ body {
   color: white;
 }
 
+.lampada {
+  cursor: pointer;
+}
+
 .div-botao, .botao {
   padding: 8px;
   font-size: 16px;
   font-weight: bold;
   border: none;
   border-radius: 10px;
-  cursor: pointer;
+}
+
+.botao {
+  cursor: pointer;  
 }
 
 .bg-yellow {
